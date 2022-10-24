@@ -57,7 +57,47 @@ I've uploaded two copies of the notebook: the original *.ipynb file, together wi
 14. sklearn_Train_Test_Split
 - packages: numpy, sklearn
 - tags: data generated (integers 1:100), splitting the data
-15.
+15. sklearn_Linear_Regression_cars
 - dataset: cars.csv
+- packages: numpy, pandas, statsmodels, matplotlib, sklearn, seaborn
+- tags: descriptive statistics, missing values, probability distribution function, outliers,  ols assumptions, log transformation, multicollinearity, dummy variables, linear regression, scaling the data, train test split, r-squared, intercept and coefficients, regression summary, testing, prediction
+16. Admittance_regression
+- dataset: Admittance.csv
+- packages: 
+- tags: 
+17. 
+- dataset: 
+- packages: 
+- tags: 
+18.
+- dataset: 
+- packages: 
+- tags: 
+19.
+- dataset: 
+- packages: 
+- tags: 
+20.
+- dataset: 
+- packages: 
+- tags: 
+21.
+- dataset: 
+- packages: 
+- tags: 
+22.
+- dataset: 
+- packages: 
+- tags: 
+23.
+- dataset: 
+- packages: 
+- tags: 
+24.
+- dataset: 
+- packages: 
+- tags: 
+25.
+- dataset: 
 - packages: 
 - tags: 
