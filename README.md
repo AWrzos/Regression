@@ -73,18 +73,14 @@ I've uploaded two copies of the notebook: the original *.ipynb file, together wi
 - dataset: Bank_data.csv
 - packages: pandas, statsmodels, matplotlib, seaborn, scipy
 - tags: logistic regression, r-squared, Maximum Likelihood Estimation (MLE)
-19. Binary_predictors
-- dataset: Binary_predictors.csv
-- packages: numpy, pandas, statsmodels, matplotlib, seaborn, scipy
-- tags: logistic regression
-20. binarypredictors_regression+test
+19. binarypredictors_regression+test
 - dataset: test_dataset.csv, Binary predictors.csv
-- packages: 
-- tags: 
-21. bank_test+regression
+- packages: numpy, pandas, statsmodels, matplotlib, seaborn, scipy
+- tags: logistic regression, scatter plot, testing the model, assesing accuracy, confusion matrix
+20. bank_test+regression
 - dataset: Bank_data_testing.csv, Bank_data.csv
-- packages: 
-- tags: 
+- packages: numpy, pandas, statsmodels, matplotlib, seaborn, scipy
+- tags: logistic regression, scatter plot, confusion matrix, testing the model, 
 22.
 - dataset: 
 - packages: 
